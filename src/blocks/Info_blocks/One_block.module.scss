@@ -1,0 +1,28 @@
+.container {
+  height: 100%;
+  width: 50%;
+  position: relative;
+  .img {
+    object-fit: cover;
+  }
+}
+
+.text_container {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  h6 {
+    color: #042521;
+    font-size: 17px;
+    font-family: Inter;
+    font-weight: 600;
+    line-height: 25px;
+  }
+  p {
+    color: #6e6e6e;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 500;
+    line-height: 25px;
+  }
+}

@@ -5,5 +5,9 @@
   padding: 0;
   text-decoration: none;
   color: inherit;
-  font-family: "Raleway";
+}
+
+body{
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
